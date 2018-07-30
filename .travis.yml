@@ -44,3 +44,4 @@ before_script:
 
 script:
   - npm run test
+   allow_failure: true
